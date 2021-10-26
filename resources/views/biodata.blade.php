@@ -7,11 +7,12 @@
     <title>Document</title>
 </head>
 <body>
+    
     <H1>BIODATA</H1>
     <H3>Nama :   Ulfa Rahman</H3>
     <H3>Kelas:   B</H3>
     <H3>Nim  :   60900119019</H3>
     <H3>Email:   60900119019@uin-alauddin.ac.id</H3>
-    
+
 </body>
 </html>
